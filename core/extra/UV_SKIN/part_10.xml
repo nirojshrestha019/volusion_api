@@ -1,0 +1,3665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmldata>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>010277</IsChildOfProductCode>
+    <LastModBy>11</LastModBy>
+    <LastModified>6/29/2019 2:52:00 PM</LastModified>
+    <ProductCode>010277-0005</ProductCode>
+    <ProductID>42704</ProductID>
+    <ProductName>Baby Girls Knot Romper - Lavender - 12/18m</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>11.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>13.8000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>12.0000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Toddler</Google_Age_Group>
+    <Google_Availability>Out of stock</Google_Availability>
+    <Google_Color>Lavender</Google_Color>
+    <Google_Gender>Female</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Baby &amp; Toddler Clothing &gt; Baby &amp; Toddler Swimwear</Google_Product_Category>
+    <Google_Size>12/18m</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>2/14/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Disc SP16</ProductManufacturer>
+    <ProductNameShort>Baby Girl Knot Overall Romper</ProductNameShort>
+    <ProductPrice>23.9500</ProductPrice>
+    <ProductWeight>0.295</ProductWeight>
+    <SalePrice>20.2500</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>010277</IsChildOfProductCode>
+    <LastModBy>11</LastModBy>
+    <LastModified>6/29/2019 2:52:00 PM</LastModified>
+    <ProductCode>010277-0006</ProductCode>
+    <ProductID>42705</ProductID>
+    <ProductName>Baby Girls Knot Romper - Bubblegum - 12/18m</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>11.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>13.8000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>12.0000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Toddler</Google_Age_Group>
+    <Google_Availability>Out of stock</Google_Availability>
+    <Google_Color>Bubblegum</Google_Color>
+    <Google_Gender>Female</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Baby &amp; Toddler Clothing &gt; Baby &amp; Toddler Swimwear</Google_Product_Category>
+    <Google_Size>12/18m</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>1/4/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Disc SP16</ProductManufacturer>
+    <ProductNameShort>Baby Girl Knot Overall Romper</ProductNameShort>
+    <ProductPrice>23.9500</ProductPrice>
+    <ProductWeight>0.295</ProductWeight>
+    <SalePrice>20.2500</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>010277</IsChildOfProductCode>
+    <LastModBy>11</LastModBy>
+    <LastModified>6/29/2019 2:52:00 PM</LastModified>
+    <ProductCode>010277-0007</ProductCode>
+    <ProductID>42706</ProductID>
+    <ProductName>Baby Girls Knot Romper - Lavender - 18/24m</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>11.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>13.8000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>12.0000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Toddler</Google_Age_Group>
+    <Google_Availability>Out of stock</Google_Availability>
+    <Google_Color>Lavender</Google_Color>
+    <Google_Gender>Female</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Baby &amp; Toddler Clothing &gt; Baby &amp; Toddler Swimwear</Google_Product_Category>
+    <Google_Size>18/24m</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>2/14/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Disc SP16</ProductManufacturer>
+    <ProductNameShort>Baby Girl Knot Overall Romper</ProductNameShort>
+    <ProductPrice>23.9500</ProductPrice>
+    <ProductWeight>0.325</ProductWeight>
+    <SalePrice>20.2500</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>010277</IsChildOfProductCode>
+    <LastModBy>11</LastModBy>
+    <LastModified>6/29/2019 2:52:00 PM</LastModified>
+    <ProductCode>010277-0008</ProductCode>
+    <ProductID>42707</ProductID>
+    <ProductName>Baby Girls Knot Romper - Bubblegum - 18/24m</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>11.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>13.8000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>12.0000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Toddler</Google_Age_Group>
+    <Google_Availability>Out of stock</Google_Availability>
+    <Google_Color>Bubblegum</Google_Color>
+    <Google_Gender>Female</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Baby &amp; Toddler Clothing &gt; Baby &amp; Toddler Swimwear</Google_Product_Category>
+    <Google_Size>18/24m</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>2/12/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Disc SP16</ProductManufacturer>
+    <ProductNameShort>Baby Girl Knot Overall Romper</ProductNameShort>
+    <ProductPrice>23.9500</ProductPrice>
+    <ProductWeight>0.325</ProductWeight>
+    <SalePrice>20.2500</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>012406</IsChildOfProductCode>
+    <LastModBy>11</LastModBy>
+    <LastModified>6/29/2019 2:52:00 PM</LastModified>
+    <ProductCode>012406-0001</ProductCode>
+    <ProductID>42711</ProductID>
+    <ProductName>Baby Girls Swim Cap - Bubblegum Stripes - 6/12m</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>7.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>9.0000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>8.0000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Infant</Google_Age_Group>
+    <Google_Availability>In Stock</Google_Availability>
+    <Google_Color>Bubblegum Stripes</Google_Color>
+    <Google_Gender>Female</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Baby &amp; Toddler Clothing &gt; Baby &amp; Toddler Swimwear</Google_Product_Category>
+    <Google_Size>6/12m</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>4/27/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Disc SP16</ProductManufacturer>
+    <ProductNameShort>Baby Girl Swim Cap</ProductNameShort>
+    <ProductPrice>15.9500</ProductPrice>
+    <ProductWeight>0.1</ProductWeight>
+    <SalePrice>10.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>012406</IsChildOfProductCode>
+    <LastModBy>101762</LastModBy>
+    <LastModified>7/1/2019 12:59:00 PM</LastModified>
+    <ProductCode>012406-0002</ProductCode>
+    <ProductID>42712</ProductID>
+    <ProductName>Baby Girls Swim Cap - Lavender Stripes - 6/12m  ** SALE ITEM  NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>7.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>9.0000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>8.0000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Infant</Google_Age_Group>
+    <Google_Availability>In Stock</Google_Availability>
+    <Google_Color>Lavender Stripes</Google_Color>
+    <Google_Gender>Female</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Baby &amp; Toddler Clothing &gt; Baby &amp; Toddler Swimwear</Google_Product_Category>
+    <Google_Size>6/12m</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>4/27/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Baby Girl Swim Cap</ProductNameShort>
+    <ProductPrice>15.9500</ProductPrice>
+    <ProductWeight>0.1</ProductWeight>
+    <SalePrice>5.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>012406</IsChildOfProductCode>
+    <LastModBy>11</LastModBy>
+    <LastModified>6/29/2019 2:52:00 PM</LastModified>
+    <ProductCode>012406-0003</ProductCode>
+    <ProductID>42713</ProductID>
+    <ProductName>Baby Girls Swim Cap - Bubblegum Stripes - 12/24m</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>7.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>9.0000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>8.0000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Toddler</Google_Age_Group>
+    <Google_Availability>In Stock</Google_Availability>
+    <Google_Color>Bubblegum Stripes</Google_Color>
+    <Google_Gender>Female</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Baby &amp; Toddler Clothing &gt; Baby &amp; Toddler Swimwear</Google_Product_Category>
+    <Google_Size>12/24m</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>4/27/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Disc SP16</ProductManufacturer>
+    <ProductNameShort>Baby Girl Swim Cap</ProductNameShort>
+    <ProductPrice>15.9500</ProductPrice>
+    <ProductWeight>0.1</ProductWeight>
+    <SalePrice>10.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>012406</IsChildOfProductCode>
+    <LastModBy>101762</LastModBy>
+    <LastModified>7/1/2019 12:59:00 PM</LastModified>
+    <ProductCode>012406-0004</ProductCode>
+    <ProductID>42714</ProductID>
+    <ProductName>Baby Girls Swim Cap - Lavender Stripes - 12/24m  ** SALE ITEM  NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>18</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>7.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>9.0000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>8.0000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Toddler</Google_Age_Group>
+    <Google_Availability>In Stock</Google_Availability>
+    <Google_Color>Lavender Stripes</Google_Color>
+    <Google_Gender>Female</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Baby &amp; Toddler Clothing &gt; Baby &amp; Toddler Swimwear</Google_Product_Category>
+    <Google_Size>12/24m</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>4/27/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Baby Girl Swim Cap</ProductNameShort>
+    <ProductPrice>15.9500</ProductPrice>
+    <ProductWeight>0.1</ProductWeight>
+    <SalePrice>5.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <LastModBy>101762</LastModBy>
+    <LastModified>6/3/2019 2:33:00 PM</LastModified>
+    <ProductCode>030302</ProductCode>
+    <ProductID>42717</ProductID>
+    <ProductName>Boys SS Active Sun &amp; Swim Shirt</ProductName>
+    <ProductPopularity>9</ProductPopularity>
+    <Additional_Handling_Indicator>N</Additional_Handling_Indicator>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>14.0000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.8000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>14.5000</DiscountedPrice_Level3>
+    <EnableMultiChildAddToCart>N</EnableMultiChildAddToCart>
+    <EnableOptions_InventoryControl>Y</EnableOptions_InventoryControl>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Availability>In stock</Google_Availability>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>Y</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <METATAG_Description>Our boy's sun safe swim shirts offer UPF 50+ protection along with a cool beach style. Order your sun safe sun and swim apparel from UVSkinz.com today.</METATAG_Description>
+    <METATAG_Title>Short Sleeve Swim Shirts | Boys UV Swimwear</METATAG_Title>
+    <Oversized>N</Oversized>
+    <Photo_SubText>&lt;a href="https://www.uvskinz.com/v/sizing-charts/babies-kids-sizing-chart.html" target="_blank" class="view-sizing-chart"&gt;Sizing Chart&lt;/a&gt;</Photo_SubText>
+    <ProductManufacturer>Parent UVS SP16</ProductManufacturer>
+    <ProductNameShort>Boys Short Sleeve Panel Sun and Swim Shirt</ProductNameShort>
+    <ProductPrice>28.9500</ProductPrice>
+    <ProductWeight>1</ProductWeight>
+    <SalePrice>20.9000</SalePrice>
+    <SalePrice_Name>&lt;inline style="color: rgb(204,00,00);"&gt;SALE:</SalePrice_Name>
+    <Ships_By_Itself>N</Ships_By_Itself>
+    <warehouses />
+    <ProductFeatures>It wouldnâ€™t be summer without endless adventures under the sun! He'll love the vibe of this multi-color Panel Shirt, some featuring a Koi fish, because it offers UPF 50+ protection along with a cool beach style. Our short sleeve swim shirts are made from our breathable, lightweight knit sun fabric. Chlorine and salt water resistant. Boys UV protective swimwear is certified UPF 50+.
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Certified UPF 50+ &lt;/li&gt;
+	&lt;li&gt;Chlorine and Salt Water Resistant&lt;/li&gt;
+	&lt;li&gt;Lightweight, Quick Drying Microfibre Knit&lt;/li&gt;
+	&lt;li&gt;Raglan Cut Sleeves&lt;/li&gt;
+	&lt;li&gt;Flat-Lock Seams&lt;/li&gt;
+	&lt;li&gt;Mock Tee Neck Coverage&lt;/li&gt;
+	&lt;li&gt;Relaxed Fit - Stretch Fabric&lt;/li&gt;
+	&lt;li&gt;Body Length for Size 6 is 17" as Measured from Side Neck to Hem&lt;/li&gt;
+	&lt;li&gt;Easy Care: Machine Wash, Line Dry&lt;/li&gt;
+	&lt;li&gt;Imported&lt;/li&gt;
+&lt;/ul&gt;</ProductFeatures>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030302</IsChildOfProductCode>
+    <LastModBy>11</LastModBy>
+    <LastModified>6/29/2019 2:40:00 PM</LastModified>
+    <ProductCode>030302-0001</ProductCode>
+    <ProductID>42718</ProductID>
+    <ProductName>Boys SS Active Sun &amp; Swim Shirt - Grey Koi - 2T  ** SALE ITEM  NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>14.0000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.8000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>14.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Toddler</Google_Age_Group>
+    <Google_Availability>Out of Stock</Google_Availability>
+    <Google_Color>Grey Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Baby &amp; Toddler Clothing &gt; Baby &amp; Toddler Swimwear</Google_Product_Category>
+    <Google_Size>2T</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>6/4/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys SS Active Sun &amp; Swim Shirt</ProductNameShort>
+    <ProductPrice>28.9500</ProductPrice>
+    <ProductWeight>0.175</ProductWeight>
+    <SalePrice>14.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030302</IsChildOfProductCode>
+    <LastModBy>11</LastModBy>
+    <LastModified>6/29/2019 2:40:00 PM</LastModified>
+    <ProductCode>030302-0002</ProductCode>
+    <ProductID>42719</ProductID>
+    <ProductName>Boys SS Active Sun &amp; Swim Shirt - Lime Punch Koi - 2T  ** SALE ITEM  NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>14.0000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.8000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>14.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Toddler</Google_Age_Group>
+    <Google_Availability>Out of Stock</Google_Availability>
+    <Google_Color>Lime Punch Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Baby &amp; Toddler Clothing &gt; Baby &amp; Toddler Swimwear</Google_Product_Category>
+    <Google_Size>2T</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>6/4/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys SS Active Sun &amp; Swim Shirt</ProductNameShort>
+    <ProductPrice>28.9500</ProductPrice>
+    <ProductWeight>0.175</ProductWeight>
+    <SalePrice>14.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030302</IsChildOfProductCode>
+    <LastModBy>101762</LastModBy>
+    <LastModified>7/1/2019 12:47:00 PM</LastModified>
+    <ProductCode>030302-0003</ProductCode>
+    <ProductID>42720</ProductID>
+    <ProductName>Boys SS Active Sun &amp; Swim Shirt - Royal Koi - 2T  ** SALE ITEM  NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>49</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>14.0000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.8000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>14.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Toddler</Google_Age_Group>
+    <Google_Availability>Out of Stock</Google_Availability>
+    <Google_Color>Royal Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Baby &amp; Toddler Clothing &gt; Baby &amp; Toddler Swimwear</Google_Product_Category>
+    <Google_Size>2T</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>4/27/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys SS Active Sun &amp; Swim Shirt</ProductNameShort>
+    <ProductPrice>28.9500</ProductPrice>
+    <ProductWeight>0.175</ProductWeight>
+    <SalePrice>11.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030302</IsChildOfProductCode>
+    <LastModBy>11</LastModBy>
+    <LastModified>6/29/2019 2:40:00 PM</LastModified>
+    <ProductCode>030302-0004</ProductCode>
+    <ProductID>42721</ProductID>
+    <ProductName>Boys SS Active Sun &amp; Swim Shirt - Grey Koi - 3T  ** SALE ITEM  NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>14.0000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.8000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>14.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Toddler</Google_Age_Group>
+    <Google_Availability>Out of Stock</Google_Availability>
+    <Google_Color>Grey Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Baby &amp; Toddler Clothing &gt; Baby &amp; Toddler Swimwear</Google_Product_Category>
+    <Google_Size>3T</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>6/4/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys SS Active Sun &amp; Swim Shirt</ProductNameShort>
+    <ProductPrice>28.9500</ProductPrice>
+    <ProductWeight>0.185</ProductWeight>
+    <SalePrice>14.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030302</IsChildOfProductCode>
+    <LastModBy>11</LastModBy>
+    <LastModified>6/29/2019 2:40:00 PM</LastModified>
+    <ProductCode>030302-0005</ProductCode>
+    <ProductID>42722</ProductID>
+    <ProductName>Boys SS Active Sun &amp; Swim Shirt - Lime Punch Koi - 3T  ** SALE ITEM  NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>14.0000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.8000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>14.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Toddler</Google_Age_Group>
+    <Google_Availability>Out of Stock</Google_Availability>
+    <Google_Color>Lime Punch Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Baby &amp; Toddler Clothing &gt; Baby &amp; Toddler Swimwear</Google_Product_Category>
+    <Google_Size>3T</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>6/4/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys SS Active Sun &amp; Swim Shirt</ProductNameShort>
+    <ProductPrice>28.9500</ProductPrice>
+    <ProductWeight>0.185</ProductWeight>
+    <SalePrice>14.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030302</IsChildOfProductCode>
+    <LastModBy>101762</LastModBy>
+    <LastModified>7/1/2019 12:47:00 PM</LastModified>
+    <ProductCode>030302-0006</ProductCode>
+    <ProductID>42723</ProductID>
+    <ProductName>Boys SS Active Sun &amp; Swim Shirt - Royal Koi - 3T  ** SALE ITEM  NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>14.0000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.8000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>14.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Toddler</Google_Age_Group>
+    <Google_Availability>Out of Stock</Google_Availability>
+    <Google_Color>Royal Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Baby &amp; Toddler Clothing &gt; Baby &amp; Toddler Swimwear</Google_Product_Category>
+    <Google_Size>3T</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>12/18/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys SS Active Sun &amp; Swim Shirt</ProductNameShort>
+    <ProductPrice>28.9500</ProductPrice>
+    <ProductWeight>0.185</ProductWeight>
+    <SalePrice>11.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030302</IsChildOfProductCode>
+    <LastModBy>11</LastModBy>
+    <LastModified>6/29/2019 2:40:00 PM</LastModified>
+    <ProductCode>030302-0007</ProductCode>
+    <ProductID>42724</ProductID>
+    <ProductName>Boys SS Active Sun &amp; Swim Shirt - Grey Koi - 4T  ** SALE ITEM  NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>14.0000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.8000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>14.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Toddler</Google_Age_Group>
+    <Google_Availability>Out of Stock</Google_Availability>
+    <Google_Color>Grey Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Baby &amp; Toddler Clothing &gt; Baby &amp; Toddler Swimwear</Google_Product_Category>
+    <Google_Size>4T</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>6/4/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys SS Active Sun &amp; Swim Shirt</ProductNameShort>
+    <ProductPrice>28.9500</ProductPrice>
+    <ProductWeight>0.205</ProductWeight>
+    <SalePrice>14.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030302</IsChildOfProductCode>
+    <LastModBy>11</LastModBy>
+    <LastModified>6/29/2019 2:40:00 PM</LastModified>
+    <ProductCode>030302-0008</ProductCode>
+    <ProductID>42725</ProductID>
+    <ProductName>Boys SS Active Sun &amp; Swim Shirt - Lime Punch Koi - 4T  ** SALE ITEM  NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>14.0000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.8000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>14.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Toddler</Google_Age_Group>
+    <Google_Availability>Out of Stock</Google_Availability>
+    <Google_Color>Lime Punch Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Baby &amp; Toddler Clothing &gt; Baby &amp; Toddler Swimwear</Google_Product_Category>
+    <Google_Size>4T</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>6/4/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys SS Active Sun &amp; Swim Shirt</ProductNameShort>
+    <ProductPrice>28.9500</ProductPrice>
+    <ProductWeight>0.205</ProductWeight>
+    <SalePrice>14.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030302</IsChildOfProductCode>
+    <LastModBy>101762</LastModBy>
+    <LastModified>7/1/2019 12:47:00 PM</LastModified>
+    <ProductCode>030302-0009</ProductCode>
+    <ProductID>42726</ProductID>
+    <ProductName>Boys SS Active Sun &amp; Swim Shirt - Royal Koi - 4T  ** SALE ITEM  NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>14.0000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.8000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>14.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Toddler</Google_Age_Group>
+    <Google_Availability>Out of Stock</Google_Availability>
+    <Google_Color>Royal Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Baby &amp; Toddler Clothing &gt; Baby &amp; Toddler Swimwear</Google_Product_Category>
+    <Google_Size>4T</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>4/27/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys SS Active Sun &amp; Swim Shirt</ProductNameShort>
+    <ProductPrice>28.9500</ProductPrice>
+    <ProductWeight>0.205</ProductWeight>
+    <SalePrice>11.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030302</IsChildOfProductCode>
+    <LastModBy>11</LastModBy>
+    <LastModified>6/29/2019 2:40:00 PM</LastModified>
+    <ProductCode>030302-0010</ProductCode>
+    <ProductID>42727</ProductID>
+    <ProductName>Boys SS Active Sun &amp; Swim Shirt - Grey Koi - 5  ** SALE ITEM  NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>14.0000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.8000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>14.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Toddler</Google_Age_Group>
+    <Google_Availability>Out of Stock</Google_Availability>
+    <Google_Color>Grey Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Baby &amp; Toddler Clothing &gt; Baby &amp; Toddler Swimwear</Google_Product_Category>
+    <Google_Size>5</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>6/4/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys SS Active Sun &amp; Swim Shirt</ProductNameShort>
+    <ProductPrice>28.9500</ProductPrice>
+    <ProductWeight>0.215</ProductWeight>
+    <SalePrice>14.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030302</IsChildOfProductCode>
+    <LastModBy>11</LastModBy>
+    <LastModified>6/29/2019 2:40:00 PM</LastModified>
+    <ProductCode>030302-0011</ProductCode>
+    <ProductID>42728</ProductID>
+    <ProductName>Boys SS Active Sun &amp; Swim Shirt - Lime Punch Koi - 5  ** SALE ITEM  NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>14.0000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.8000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>14.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Toddler</Google_Age_Group>
+    <Google_Availability>Out of Stock</Google_Availability>
+    <Google_Color>Lime Punch Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Baby &amp; Toddler Clothing &gt; Baby &amp; Toddler Swimwear</Google_Product_Category>
+    <Google_Size>5</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>6/4/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys SS Active Sun &amp; Swim Shirt</ProductNameShort>
+    <ProductPrice>28.9500</ProductPrice>
+    <ProductWeight>0.215</ProductWeight>
+    <SalePrice>14.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030302</IsChildOfProductCode>
+    <LastModBy>101762</LastModBy>
+    <LastModified>7/1/2019 12:47:00 PM</LastModified>
+    <ProductCode>030302-0012</ProductCode>
+    <ProductID>42729</ProductID>
+    <ProductName>Boys SS Active Sun &amp; Swim Shirt - Royal Koi - 5  ** SALE ITEM  NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>14.0000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.8000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>14.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Toddler</Google_Age_Group>
+    <Google_Availability>Out of Stock</Google_Availability>
+    <Google_Color>Royal Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Baby &amp; Toddler Clothing &gt; Baby &amp; Toddler Swimwear</Google_Product_Category>
+    <Google_Size>5</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>4/27/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys SS Active Sun &amp; Swim Shirt</ProductNameShort>
+    <ProductPrice>28.9500</ProductPrice>
+    <ProductWeight>0.215</ProductWeight>
+    <SalePrice>11.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030302</IsChildOfProductCode>
+    <LastModBy>11</LastModBy>
+    <LastModified>6/29/2019 2:40:00 PM</LastModified>
+    <ProductCode>030302-0013</ProductCode>
+    <ProductID>42730</ProductID>
+    <ProductName>Boys SS Active Sun &amp; Swim Shirt - Grey Koi - 6  ** SALE ITEM  NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>14.0000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.8000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>14.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Kids</Google_Age_Group>
+    <Google_Availability>Out of Stock</Google_Availability>
+    <Google_Color>Grey Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Sporting Goods &gt; Outdoor Recreation &gt; Boating &amp; Water Sports &gt; Boating &amp; Water Sport Apparel &gt; Rash Guards &amp; Swim Shirts</Google_Product_Category>
+    <Google_Size>6</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>6/4/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys SS Active Sun &amp; Swim Shirt</ProductNameShort>
+    <ProductPrice>28.9500</ProductPrice>
+    <ProductWeight>0.23</ProductWeight>
+    <SalePrice>14.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030302</IsChildOfProductCode>
+    <LastModBy>11</LastModBy>
+    <LastModified>6/29/2019 2:40:00 PM</LastModified>
+    <ProductCode>030302-0014</ProductCode>
+    <ProductID>42731</ProductID>
+    <ProductName>Boys SS Active Sun &amp; Swim Shirt - Lime Punch Koi - 6  ** SALE ITEM  NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>14.0000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.8000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>14.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Kids</Google_Age_Group>
+    <Google_Availability>Out of Stock</Google_Availability>
+    <Google_Color>Lime Punch Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Sporting Goods &gt; Outdoor Recreation &gt; Boating &amp; Water Sports &gt; Boating &amp; Water Sport Apparel &gt; Rash Guards &amp; Swim Shirts</Google_Product_Category>
+    <Google_Size>6</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>6/4/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys SS Active Sun &amp; Swim Shirt</ProductNameShort>
+    <ProductPrice>28.9500</ProductPrice>
+    <ProductWeight>0.23</ProductWeight>
+    <SalePrice>14.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030302</IsChildOfProductCode>
+    <LastModBy>101762</LastModBy>
+    <LastModified>7/1/2019 12:47:00 PM</LastModified>
+    <ProductCode>030302-0015</ProductCode>
+    <ProductID>42732</ProductID>
+    <ProductName>Boys SS Active Sun &amp; Swim Shirt - Royal Koi - 6  ** SALE ITEM  NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>14.0000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.8000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>14.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Kids</Google_Age_Group>
+    <Google_Availability>Out of Stock</Google_Availability>
+    <Google_Color>Royal Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Sporting Goods &gt; Outdoor Recreation &gt; Boating &amp; Water Sports &gt; Boating &amp; Water Sport Apparel &gt; Rash Guards &amp; Swim Shirts</Google_Product_Category>
+    <Google_Size>6</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>4/27/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys SS Active Sun &amp; Swim Shirt</ProductNameShort>
+    <ProductPrice>28.9500</ProductPrice>
+    <ProductWeight>0.23</ProductWeight>
+    <SalePrice>11.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030302</IsChildOfProductCode>
+    <LastModBy>11</LastModBy>
+    <LastModified>6/29/2019 2:40:00 PM</LastModified>
+    <ProductCode>030302-0016</ProductCode>
+    <ProductID>42733</ProductID>
+    <ProductName>Boys SS Active Sun &amp; Swim Shirt - Grey Koi - 8  ** SALE ITEM  NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>14.0000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.8000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>14.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Kids</Google_Age_Group>
+    <Google_Availability>Out of Stock</Google_Availability>
+    <Google_Color>Grey Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Sporting Goods &gt; Outdoor Recreation &gt; Boating &amp; Water Sports &gt; Boating &amp; Water Sport Apparel &gt; Rash Guards &amp; Swim Shirts</Google_Product_Category>
+    <Google_Size>8</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>6/4/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys SS Active Sun &amp; Swim Shirt</ProductNameShort>
+    <ProductPrice>28.9500</ProductPrice>
+    <ProductWeight>0.245</ProductWeight>
+    <SalePrice>14.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030302</IsChildOfProductCode>
+    <LastModBy>11</LastModBy>
+    <LastModified>6/29/2019 2:40:00 PM</LastModified>
+    <ProductCode>030302-0017</ProductCode>
+    <ProductID>42734</ProductID>
+    <ProductName>Boys SS Active Sun &amp; Swim Shirt - Lime Punch Koi - 8  ** SALE ITEM  NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>14.0000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.8000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>14.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Kids</Google_Age_Group>
+    <Google_Availability>Out of Stock</Google_Availability>
+    <Google_Color>Lime Punch Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Sporting Goods &gt; Outdoor Recreation &gt; Boating &amp; Water Sports &gt; Boating &amp; Water Sport Apparel &gt; Rash Guards &amp; Swim Shirts</Google_Product_Category>
+    <Google_Size>8</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>6/4/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys SS Active Sun &amp; Swim Shirt</ProductNameShort>
+    <ProductPrice>28.9500</ProductPrice>
+    <ProductWeight>0.245</ProductWeight>
+    <SalePrice>14.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030302</IsChildOfProductCode>
+    <LastModBy>101762</LastModBy>
+    <LastModified>7/1/2019 12:47:00 PM</LastModified>
+    <ProductCode>030302-0018</ProductCode>
+    <ProductID>42735</ProductID>
+    <ProductName>Boys SS Active Sun &amp; Swim Shirt - Royal Koi - 8  ** SALE ITEM  NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>14.0000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.8000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>14.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Kids</Google_Age_Group>
+    <Google_Availability>Out of Stock</Google_Availability>
+    <Google_Color>Royal Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Sporting Goods &gt; Outdoor Recreation &gt; Boating &amp; Water Sports &gt; Boating &amp; Water Sport Apparel &gt; Rash Guards &amp; Swim Shirts</Google_Product_Category>
+    <Google_Size>8</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>4/27/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys SS Active Sun &amp; Swim Shirt</ProductNameShort>
+    <ProductPrice>28.9500</ProductPrice>
+    <ProductWeight>0.245</ProductWeight>
+    <SalePrice>11.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030302</IsChildOfProductCode>
+    <LastModBy>11</LastModBy>
+    <LastModified>6/29/2019 2:40:00 PM</LastModified>
+    <ProductCode>030302-0019</ProductCode>
+    <ProductID>42736</ProductID>
+    <ProductName>Boys SS Active Sun &amp; Swim Shirt - Grey Koi - 10  ** SALE ITEM  NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>14.0000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.8000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>14.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Kids</Google_Age_Group>
+    <Google_Availability>Out of Stock</Google_Availability>
+    <Google_Color>Grey Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Sporting Goods &gt; Outdoor Recreation &gt; Boating &amp; Water Sports &gt; Boating &amp; Water Sport Apparel &gt; Rash Guards &amp; Swim Shirts</Google_Product_Category>
+    <Google_Size>10</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>6/4/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys SS Active Sun &amp; Swim Shirt</ProductNameShort>
+    <ProductPrice>28.9500</ProductPrice>
+    <ProductWeight>0.26</ProductWeight>
+    <SalePrice>14.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030302</IsChildOfProductCode>
+    <LastModBy>11</LastModBy>
+    <LastModified>6/29/2019 2:40:00 PM</LastModified>
+    <ProductCode>030302-0020</ProductCode>
+    <ProductID>42737</ProductID>
+    <ProductName>Boys SS Active Sun &amp; Swim Shirt - Lime Punch Koi - 10  ** SALE ITEM  NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>14.0000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.8000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>14.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Kids</Google_Age_Group>
+    <Google_Availability>Out of Stock</Google_Availability>
+    <Google_Color>Lime Punch Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Sporting Goods &gt; Outdoor Recreation &gt; Boating &amp; Water Sports &gt; Boating &amp; Water Sport Apparel &gt; Rash Guards &amp; Swim Shirts</Google_Product_Category>
+    <Google_Size>10</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>4/11/2019 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys SS Active Sun &amp; Swim Shirt</ProductNameShort>
+    <ProductPrice>28.9500</ProductPrice>
+    <ProductWeight>0.26</ProductWeight>
+    <SalePrice>14.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030302</IsChildOfProductCode>
+    <LastModBy>101762</LastModBy>
+    <LastModified>7/1/2019 12:47:00 PM</LastModified>
+    <ProductCode>030302-0021</ProductCode>
+    <ProductID>42738</ProductID>
+    <ProductName>Boys SS Active Sun &amp; Swim Shirt - Royal Koi - 10  ** SALE ITEM  NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>14.0000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.8000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>14.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Kids</Google_Age_Group>
+    <Google_Availability>Out of Stock</Google_Availability>
+    <Google_Color>Royal Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Sporting Goods &gt; Outdoor Recreation &gt; Boating &amp; Water Sports &gt; Boating &amp; Water Sport Apparel &gt; Rash Guards &amp; Swim Shirts</Google_Product_Category>
+    <Google_Size>10</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>11/5/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys SS Active Sun &amp; Swim Shirt</ProductNameShort>
+    <ProductPrice>28.9500</ProductPrice>
+    <ProductWeight>0.26</ProductWeight>
+    <SalePrice>11.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030302</IsChildOfProductCode>
+    <LastModBy>11</LastModBy>
+    <LastModified>6/29/2019 2:40:00 PM</LastModified>
+    <ProductCode>030302-0022</ProductCode>
+    <ProductID>42739</ProductID>
+    <ProductName>Boys SS Active Sun &amp; Swim Shirt - Grey Koi - 12  ** SALE ITEM  NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>14.0000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.8000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>14.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Kids</Google_Age_Group>
+    <Google_Availability>Out of Stock</Google_Availability>
+    <Google_Color>Grey Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Sporting Goods &gt; Outdoor Recreation &gt; Boating &amp; Water Sports &gt; Boating &amp; Water Sport Apparel &gt; Rash Guards &amp; Swim Shirts</Google_Product_Category>
+    <Google_Size>12</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>4/11/2019 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys SS Active Sun &amp; Swim Shirt</ProductNameShort>
+    <ProductPrice>28.9500</ProductPrice>
+    <ProductWeight>0.285</ProductWeight>
+    <SalePrice>14.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030302</IsChildOfProductCode>
+    <LastModBy>11</LastModBy>
+    <LastModified>6/29/2019 2:40:00 PM</LastModified>
+    <ProductCode>030302-0023</ProductCode>
+    <ProductID>42740</ProductID>
+    <ProductName>Boys SS Active Sun &amp; Swim Shirt - Lime Punch Koi - 12  ** SALE ITEM  NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>14.0000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.8000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>14.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Kids</Google_Age_Group>
+    <Google_Availability>Out of Stock</Google_Availability>
+    <Google_Color>Lime Punch Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Sporting Goods &gt; Outdoor Recreation &gt; Boating &amp; Water Sports &gt; Boating &amp; Water Sport Apparel &gt; Rash Guards &amp; Swim Shirts</Google_Product_Category>
+    <Google_Size>12</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>4/11/2019 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys SS Active Sun &amp; Swim Shirt</ProductNameShort>
+    <ProductPrice>28.9500</ProductPrice>
+    <ProductWeight>0.285</ProductWeight>
+    <SalePrice>14.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030302</IsChildOfProductCode>
+    <LastModBy>101762</LastModBy>
+    <LastModified>7/1/2019 12:47:00 PM</LastModified>
+    <ProductCode>030302-0024</ProductCode>
+    <ProductID>42741</ProductID>
+    <ProductName>Boys SS Active Sun &amp; Swim Shirt - Royal Koi - 12  ** SALE ITEM  NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>26</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>14.0000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.8000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>14.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Kids</Google_Age_Group>
+    <Google_Availability>Out of Stock</Google_Availability>
+    <Google_Color>Royal Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Sporting Goods &gt; Outdoor Recreation &gt; Boating &amp; Water Sports &gt; Boating &amp; Water Sport Apparel &gt; Rash Guards &amp; Swim Shirts</Google_Product_Category>
+    <Google_Size>12</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>4/27/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys SS Active Sun &amp; Swim Shirt</ProductNameShort>
+    <ProductPrice>28.9500</ProductPrice>
+    <ProductWeight>0.285</ProductWeight>
+    <SalePrice>11.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030302</IsChildOfProductCode>
+    <LastModBy>11</LastModBy>
+    <LastModified>6/29/2019 2:40:00 PM</LastModified>
+    <ProductCode>030302-0025</ProductCode>
+    <ProductID>42742</ProductID>
+    <ProductName>Boys SS Active Sun &amp; Swim Shirt - Grey Koi - 14  ** SALE ITEM  NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>14.0000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.8000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>14.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Kids</Google_Age_Group>
+    <Google_Availability>Out of Stock</Google_Availability>
+    <Google_Color>Grey Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Sporting Goods &gt; Outdoor Recreation &gt; Boating &amp; Water Sports &gt; Boating &amp; Water Sport Apparel &gt; Rash Guards &amp; Swim Shirts</Google_Product_Category>
+    <Google_Size>14</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>4/27/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys SS Active Sun &amp; Swim Shirt</ProductNameShort>
+    <ProductPrice>28.9500</ProductPrice>
+    <ProductWeight>0.315</ProductWeight>
+    <SalePrice>14.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030302</IsChildOfProductCode>
+    <LastModBy>11</LastModBy>
+    <LastModified>6/29/2019 2:40:00 PM</LastModified>
+    <ProductCode>030302-0026</ProductCode>
+    <ProductID>42743</ProductID>
+    <ProductName>Boys SS Active Sun &amp; Swim Shirt - Lime Punch Koi - 14  ** SALE ITEM  NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>14.0000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.8000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>14.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Kids</Google_Age_Group>
+    <Google_Availability>In Stock</Google_Availability>
+    <Google_Color>Lime Punch Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Sporting Goods &gt; Outdoor Recreation &gt; Boating &amp; Water Sports &gt; Boating &amp; Water Sport Apparel &gt; Rash Guards &amp; Swim Shirts</Google_Product_Category>
+    <Google_Size>14</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>10/19/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys SS Active Sun &amp; Swim Shirt</ProductNameShort>
+    <ProductPrice>28.9500</ProductPrice>
+    <ProductWeight>0.315</ProductWeight>
+    <SalePrice>14.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030302</IsChildOfProductCode>
+    <LastModBy>101762</LastModBy>
+    <LastModified>7/1/2019 12:47:00 PM</LastModified>
+    <ProductCode>030302-0027</ProductCode>
+    <ProductID>42744</ProductID>
+    <ProductName>Boys SS Active Sun &amp; Swim Shirt - Royal Koi - 14  ** SALE ITEM  NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>14.0000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.8000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>14.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Kids</Google_Age_Group>
+    <Google_Availability>In Stock</Google_Availability>
+    <Google_Color>Royal Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Sporting Goods &gt; Outdoor Recreation &gt; Boating &amp; Water Sports &gt; Boating &amp; Water Sport Apparel &gt; Rash Guards &amp; Swim Shirts</Google_Product_Category>
+    <Google_Size>14</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>12/18/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys SS Active Sun &amp; Swim Shirt</ProductNameShort>
+    <ProductPrice>28.9500</ProductPrice>
+    <ProductWeight>0.315</ProductWeight>
+    <SalePrice>11.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <LastModBy>101762</LastModBy>
+    <LastModified>7/1/2019 12:43:00 PM</LastModified>
+    <ProductCode>030100K</ProductCode>
+    <ProductID>42748</ProductID>
+    <ProductName>Boys Koi Board Shorts</ProductName>
+    <Additional_Handling_Indicator>N</Additional_Handling_Indicator>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <EnableMultiChildAddToCart>N</EnableMultiChildAddToCart>
+    <EnableOptions_InventoryControl>Y</EnableOptions_InventoryControl>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Availability>Out of stock</Google_Availability>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>Y</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <METATAG_Description>These koi board shorts for boys are lightweight and quick drying. Shop for your sun safe swim apparel for the whole family online at UVSkinz.com!</METATAG_Description>
+    <METATAG_Title>Swim Trunks For Boys | Boys Board Short | UV Skinz</METATAG_Title>
+    <Oversized>N</Oversized>
+    <Photo_SubText>&lt;a href="https://www.uvskinz.com/v/sizing-charts/babies-kids-sizing-chart.html" target="_blank" class="view-sizing-chart"&gt;Sizing Chart&lt;/a&gt;</Photo_SubText>
+    <ProductManufacturer>Parent UVS</ProductManufacturer>
+    <ProductNameShort>Boys Koi Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>1</ProductWeight>
+    <SalePrice>10.9000</SalePrice>
+    <SalePrice_Name>&lt;inline style="color: rgb(204,00,00);"&gt;SALE:</SalePrice_Name>
+    <Ships_By_Itself>N</Ships_By_Itself>
+    <warehouses />
+    <ProductFeatures>Our Koi boy's board short will quickly become his go-to summer favorite! Featuring our limited edition Koi print and made from our lightweight, quick-drying, stretch woven sun fabric. Velcro fly, mesh lining (size 2T-6), working drawstring, and water friendly side pocket. Our swim trunks for boys are chlorine and salt water resistant. Certified UPF 50+.
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Certified UPF 50+&lt;/li&gt;
+	&lt;li&gt;Limited Edition Koi Print&lt;/li&gt;
+	&lt;li&gt;Chlorine and Salt Water Resistant&lt;/li&gt;
+	&lt;li&gt;Lightweight, Quick Drying Stretch Woven Fabric&lt;/li&gt;
+    	&lt;li&gt;Our Stretch Woven Fabric Transitions from Swim to Everyday Seamlessly&lt;/li&gt;
+	&lt;li&gt;Elastic Back Waistband&lt;/li&gt;
+	&lt;li&gt;Adjustable Drawstring Waist&lt;/li&gt;
+	&lt;li&gt;Velcro Fly&lt;/li&gt;
+	&lt;li&gt;Mesh Liner on Sizes 2T-6&lt;/li&gt;
+	&lt;li&gt;Size 6 Inseam: 5 7/8"&lt;/li&gt;
+	&lt;li&gt;Imported&lt;/li&gt;
+&lt;/ul&gt;</ProductFeatures>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030100K</IsChildOfProductCode>
+    <LastModBy>101762</LastModBy>
+    <LastModified>7/1/2019 12:43:00 PM</LastModified>
+    <ProductCode>030100K-0001</ProductCode>
+    <ProductID>42752</ProductID>
+    <ProductName>Boys Koi Board Shorts - Lime Punch Koi - 2T</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Toddler</Google_Age_Group>
+    <Google_Availability>Out of Stock</Google_Availability>
+    <Google_Color>Lime Punch Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>2T</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>6/4/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Disc SP16</ProductManufacturer>
+    <ProductNameShort>Boys Koi Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.19</ProductWeight>
+    <SalePrice>10.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030100K</IsChildOfProductCode>
+    <LastModBy>101762</LastModBy>
+    <LastModified>7/1/2019 12:43:00 PM</LastModified>
+    <ProductCode>030100K-0002</ProductCode>
+    <ProductID>42753</ProductID>
+    <ProductName>Boys Koi Board Shorts - Orange Koi - 2T</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Toddler</Google_Age_Group>
+    <Google_Availability>Out of Stock</Google_Availability>
+    <Google_Color>Orange Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>2T</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>6/4/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Disc SP16</ProductManufacturer>
+    <ProductNameShort>Boys Koi Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.19</ProductWeight>
+    <SalePrice>10.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030100K</IsChildOfProductCode>
+    <LastModBy>101762</LastModBy>
+    <LastModified>7/1/2019 12:43:00 PM</LastModified>
+    <ProductCode>030100K-0003</ProductCode>
+    <ProductID>42754</ProductID>
+    <ProductName>Boys Koi Board Shorts - Royal Koi - 2T  ** SALE ITEM  NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>11</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Toddler</Google_Age_Group>
+    <Google_Availability>Out of Stock</Google_Availability>
+    <Google_Color>Royal Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>2T</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>4/27/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys Koi Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.19</ProductWeight>
+    <SalePrice>10.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030100K</IsChildOfProductCode>
+    <LastModBy>101762</LastModBy>
+    <LastModified>7/1/2019 12:43:00 PM</LastModified>
+    <ProductCode>030100K-0004</ProductCode>
+    <ProductID>42755</ProductID>
+    <ProductName>Boys Koi Board Shorts - Lime Punch Koi - 3T</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Toddler</Google_Age_Group>
+    <Google_Availability>Out of Stock</Google_Availability>
+    <Google_Color>Lime Punch Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>3T</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>6/4/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Disc SP16</ProductManufacturer>
+    <ProductNameShort>Boys Koi Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.205</ProductWeight>
+    <SalePrice>10.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030100K</IsChildOfProductCode>
+    <LastModBy>101762</LastModBy>
+    <LastModified>7/1/2019 12:43:00 PM</LastModified>
+    <ProductCode>030100K-0005</ProductCode>
+    <ProductID>42756</ProductID>
+    <ProductName>Boys Koi Board Shorts - Orange Koi - 3T</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Toddler</Google_Age_Group>
+    <Google_Availability>Out of Stock</Google_Availability>
+    <Google_Color>Orange Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>3T</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>6/4/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Disc SP16</ProductManufacturer>
+    <ProductNameShort>Boys Koi Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.205</ProductWeight>
+    <SalePrice>10.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030100K</IsChildOfProductCode>
+    <LastModBy>101762</LastModBy>
+    <LastModified>7/1/2019 12:43:00 PM</LastModified>
+    <ProductCode>030100K-0006</ProductCode>
+    <ProductID>42757</ProductID>
+    <ProductName>Boys Koi Board Shorts - Royal Koi - 3T  ** SALE ITEM  NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Toddler</Google_Age_Group>
+    <Google_Availability>Out of Stock</Google_Availability>
+    <Google_Color>Royal Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>3T</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>6/4/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys Koi Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.205</ProductWeight>
+    <SalePrice>10.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030100K</IsChildOfProductCode>
+    <LastModBy>101762</LastModBy>
+    <LastModified>7/1/2019 12:43:00 PM</LastModified>
+    <ProductCode>030100K-0007</ProductCode>
+    <ProductID>42758</ProductID>
+    <ProductName>Boys Koi Board Shorts - Lime Punch Koi - 4T</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Toddler</Google_Age_Group>
+    <Google_Availability>Out of Stock</Google_Availability>
+    <Google_Color>Lime Punch Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>4T</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>6/4/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Disc SP16</ProductManufacturer>
+    <ProductNameShort>Boys Koi Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.21</ProductWeight>
+    <SalePrice>10.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030100K</IsChildOfProductCode>
+    <LastModBy>101762</LastModBy>
+    <LastModified>7/1/2019 12:43:00 PM</LastModified>
+    <ProductCode>030100K-0008</ProductCode>
+    <ProductID>42759</ProductID>
+    <ProductName>Boys Koi Board Shorts - Orange Koi - 4T</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Toddler</Google_Age_Group>
+    <Google_Availability>Out of Stock</Google_Availability>
+    <Google_Color>Orange Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>4T</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>6/4/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Disc SP16</ProductManufacturer>
+    <ProductNameShort>Boys Koi Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.21</ProductWeight>
+    <SalePrice>10.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030100K</IsChildOfProductCode>
+    <LastModBy>101762</LastModBy>
+    <LastModified>7/1/2019 12:43:00 PM</LastModified>
+    <ProductCode>030100K-0009</ProductCode>
+    <ProductID>42760</ProductID>
+    <ProductName>Boys Koi Board Shorts - Royal Koi - 4T  ** SALE ITEM  NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Toddler</Google_Age_Group>
+    <Google_Availability>Out of Stock</Google_Availability>
+    <Google_Color>Royal Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>4T</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>6/4/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys Koi Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.21</ProductWeight>
+    <SalePrice>10.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030100K</IsChildOfProductCode>
+    <LastModBy>101762</LastModBy>
+    <LastModified>7/1/2019 12:43:00 PM</LastModified>
+    <ProductCode>030100K-0010</ProductCode>
+    <ProductID>42761</ProductID>
+    <ProductName>Boys Koi Board Shorts - Lime Punch Koi - 5</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Toddler</Google_Age_Group>
+    <Google_Availability>Out of Stock</Google_Availability>
+    <Google_Color>Lime Punch Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>5</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>6/4/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Disc SP16</ProductManufacturer>
+    <ProductNameShort>Boys Koi Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.23</ProductWeight>
+    <SalePrice>10.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030100K</IsChildOfProductCode>
+    <LastModBy>101762</LastModBy>
+    <LastModified>7/1/2019 12:43:00 PM</LastModified>
+    <ProductCode>030100K-0011</ProductCode>
+    <ProductID>42762</ProductID>
+    <ProductName>Boys Koi Board Shorts - Orange Koi - 5</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Toddler</Google_Age_Group>
+    <Google_Availability>Out of Stock</Google_Availability>
+    <Google_Color>Orange Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>5</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>6/4/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Disc SP16</ProductManufacturer>
+    <ProductNameShort>Boys Koi Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.23</ProductWeight>
+    <SalePrice>10.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030100K</IsChildOfProductCode>
+    <LastModBy>101762</LastModBy>
+    <LastModified>7/1/2019 12:43:00 PM</LastModified>
+    <ProductCode>030100K-0012</ProductCode>
+    <ProductID>42763</ProductID>
+    <ProductName>Boys Koi Board Shorts - Royal Koi - 5  ** SALE ITEM  NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Toddler</Google_Age_Group>
+    <Google_Availability>Out of Stock</Google_Availability>
+    <Google_Color>Royal Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>5</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>12/18/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys Koi Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.23</ProductWeight>
+    <SalePrice>10.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030100K</IsChildOfProductCode>
+    <LastModBy>101762</LastModBy>
+    <LastModified>7/1/2019 12:43:00 PM</LastModified>
+    <ProductCode>030100K-0013</ProductCode>
+    <ProductID>42764</ProductID>
+    <ProductName>Boys Koi Board Shorts - Lime Punch Koi - 6</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Kids</Google_Age_Group>
+    <Google_Availability>Out of Stock</Google_Availability>
+    <Google_Color>Lime Punch Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>6</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>6/4/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Disc SP16</ProductManufacturer>
+    <ProductNameShort>Boys Koi Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.24</ProductWeight>
+    <SalePrice>10.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030100K</IsChildOfProductCode>
+    <LastModBy>101762</LastModBy>
+    <LastModified>7/1/2019 12:43:00 PM</LastModified>
+    <ProductCode>030100K-0014</ProductCode>
+    <ProductID>42765</ProductID>
+    <ProductName>Boys Koi Board Shorts - Orange Koi - 6</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Kids</Google_Age_Group>
+    <Google_Availability>Out of Stock</Google_Availability>
+    <Google_Color>Orange Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>6</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>6/4/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Disc SP16</ProductManufacturer>
+    <ProductNameShort>Boys Koi Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.24</ProductWeight>
+    <SalePrice>10.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030100K</IsChildOfProductCode>
+    <LastModBy>101762</LastModBy>
+    <LastModified>7/1/2019 12:43:00 PM</LastModified>
+    <ProductCode>030100K-0015</ProductCode>
+    <ProductID>42766</ProductID>
+    <ProductName>Boys Koi Board Shorts - Royal Koi - 6  ** SALE ITEM  NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Kids</Google_Age_Group>
+    <Google_Availability>Out of Stock</Google_Availability>
+    <Google_Color>Royal Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>6</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>4/27/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys Koi Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.24</ProductWeight>
+    <SalePrice>10.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030100K</IsChildOfProductCode>
+    <LastModBy>101762</LastModBy>
+    <LastModified>7/1/2019 12:43:00 PM</LastModified>
+    <ProductCode>030100K-0016</ProductCode>
+    <ProductID>42767</ProductID>
+    <ProductName>Boys Koi Board Shorts - Lime Punch Koi - 8</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Kids</Google_Age_Group>
+    <Google_Availability>Out of Stock</Google_Availability>
+    <Google_Color>Lime Punch Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>8</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>6/4/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Disc SP16</ProductManufacturer>
+    <ProductNameShort>Boys Koi Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.26</ProductWeight>
+    <SalePrice>10.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030100K</IsChildOfProductCode>
+    <LastModBy>101762</LastModBy>
+    <LastModified>7/1/2019 12:43:00 PM</LastModified>
+    <ProductCode>030100K-0017</ProductCode>
+    <ProductID>42768</ProductID>
+    <ProductName>Boys Koi Board Shorts - Orange Koi - 8</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Kids</Google_Age_Group>
+    <Google_Availability>Out of Stock</Google_Availability>
+    <Google_Color>Orange Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>8</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>6/4/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Disc SP16</ProductManufacturer>
+    <ProductNameShort>Boys Koi Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.26</ProductWeight>
+    <SalePrice>10.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030100K</IsChildOfProductCode>
+    <LastModBy>101762</LastModBy>
+    <LastModified>7/1/2019 12:43:00 PM</LastModified>
+    <ProductCode>030100K-0018</ProductCode>
+    <ProductID>42769</ProductID>
+    <ProductName>Boys Koi Board Shorts - Royal Koi - 8  ** SALE ITEM  NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <Additional_Handling_Indicator>N</Additional_Handling_Indicator>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <EnableMultiChildAddToCart>N</EnableMultiChildAddToCart>
+    <EnableOptions_InventoryControl>N</EnableOptions_InventoryControl>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Kids</Google_Age_Group>
+    <Google_Availability>Out of Stock</Google_Availability>
+    <Google_Color>Royal Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>8</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>6/4/2018 12:00:00 AM</Inv_LastVerified>
+    <Oversized>N</Oversized>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys Koi Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.26</ProductWeight>
+    <SalePrice>10.9000</SalePrice>
+    <Ships_By_Itself>N</Ships_By_Itself>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030100K</IsChildOfProductCode>
+    <LastModBy>101762</LastModBy>
+    <LastModified>7/1/2019 12:43:00 PM</LastModified>
+    <ProductCode>030100K-0019</ProductCode>
+    <ProductID>42770</ProductID>
+    <ProductName>Boys Koi Board Shorts - Lime Punch Koi - 10</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Kids</Google_Age_Group>
+    <Google_Availability>Out of Stock</Google_Availability>
+    <Google_Color>Lime Punch Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>10</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>6/4/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Disc SP16</ProductManufacturer>
+    <ProductNameShort>Boys Koi Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.285</ProductWeight>
+    <SalePrice>10.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030100K</IsChildOfProductCode>
+    <LastModBy>101762</LastModBy>
+    <LastModified>7/1/2019 12:43:00 PM</LastModified>
+    <ProductCode>030100K-0020</ProductCode>
+    <ProductID>42771</ProductID>
+    <ProductName>Boys Koi Board Shorts - Orange Koi - 10</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Kids</Google_Age_Group>
+    <Google_Availability>Out of Stock</Google_Availability>
+    <Google_Color>Orange Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>10</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>6/4/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Disc SP16</ProductManufacturer>
+    <ProductNameShort>Boys Koi Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.285</ProductWeight>
+    <SalePrice>10.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030100K</IsChildOfProductCode>
+    <LastModBy>101762</LastModBy>
+    <LastModified>7/1/2019 12:43:00 PM</LastModified>
+    <ProductCode>030100K-0021</ProductCode>
+    <ProductID>42772</ProductID>
+    <ProductName>Boys Koi Board Shorts - Royal Koi - 10  ** SALE ITEM  NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Kids</Google_Age_Group>
+    <Google_Availability>Out of Stock</Google_Availability>
+    <Google_Color>Royal Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>10</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>6/4/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys Koi Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.285</ProductWeight>
+    <SalePrice>10.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030100K</IsChildOfProductCode>
+    <LastModBy>101762</LastModBy>
+    <LastModified>7/1/2019 12:43:00 PM</LastModified>
+    <ProductCode>030100K-0022</ProductCode>
+    <ProductID>42773</ProductID>
+    <ProductName>Boys Koi Board Shorts - Lime Punch Koi - 12</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Kids</Google_Age_Group>
+    <Google_Availability>Out of Stock</Google_Availability>
+    <Google_Color>Lime Punch Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>12</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>4/27/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Disc SP16</ProductManufacturer>
+    <ProductNameShort>Boys Koi Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.3</ProductWeight>
+    <SalePrice>10.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030100K</IsChildOfProductCode>
+    <LastModBy>101762</LastModBy>
+    <LastModified>7/1/2019 12:43:00 PM</LastModified>
+    <ProductCode>030100K-0023</ProductCode>
+    <ProductID>42774</ProductID>
+    <ProductName>Boys Koi Board Shorts - Orange Koi - 12</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Kids</Google_Age_Group>
+    <Google_Availability>Out of Stock</Google_Availability>
+    <Google_Color>Orange Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>12</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>6/4/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Disc SP16</ProductManufacturer>
+    <ProductNameShort>Boys Koi Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.3</ProductWeight>
+    <SalePrice>10.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030100K</IsChildOfProductCode>
+    <LastModBy>101762</LastModBy>
+    <LastModified>7/1/2019 12:43:00 PM</LastModified>
+    <ProductCode>030100K-0024</ProductCode>
+    <ProductID>42775</ProductID>
+    <ProductName>Boys Koi Board Shorts - Royal Koi - 12  ** SALE ITEM  NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Kids</Google_Age_Group>
+    <Google_Availability>Out of Stock</Google_Availability>
+    <Google_Color>Royal Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>12</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>11/9/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys Koi Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.3</ProductWeight>
+    <SalePrice>10.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030100K</IsChildOfProductCode>
+    <LastModBy>101762</LastModBy>
+    <LastModified>7/1/2019 12:43:00 PM</LastModified>
+    <ProductCode>030100K-0025</ProductCode>
+    <ProductID>42776</ProductID>
+    <ProductName>Boys Koi Board Shorts - Lime Punch Koi - 14</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Kids</Google_Age_Group>
+    <Google_Availability>Out of Stock</Google_Availability>
+    <Google_Color>Lime Punch Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>14</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>6/4/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Disc SP16</ProductManufacturer>
+    <ProductNameShort>Boys Koi Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.35</ProductWeight>
+    <SalePrice>10.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030100K</IsChildOfProductCode>
+    <LastModBy>101762</LastModBy>
+    <LastModified>7/1/2019 12:43:00 PM</LastModified>
+    <ProductCode>030100K-0026</ProductCode>
+    <ProductID>42777</ProductID>
+    <ProductName>Boys Koi Board Shorts - Orange Koi - 14</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Kids</Google_Age_Group>
+    <Google_Availability>Out of Stock</Google_Availability>
+    <Google_Color>Orange Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>14</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>6/4/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Disc SP16</ProductManufacturer>
+    <ProductNameShort>Boys Koi Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.35</ProductWeight>
+    <SalePrice>10.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030100K</IsChildOfProductCode>
+    <LastModBy>101762</LastModBy>
+    <LastModified>7/1/2019 12:43:00 PM</LastModified>
+    <ProductCode>030100K-0027</ProductCode>
+    <ProductID>42778</ProductID>
+    <ProductName>Boys Koi Board Shorts - Royal Koi - 14  ** SALE ITEM  NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Kids</Google_Age_Group>
+    <Google_Availability>Out of Stock</Google_Availability>
+    <Google_Color>Royal Koi</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>14</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>4/27/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys Koi Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.35</ProductWeight>
+    <SalePrice>10.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <LastModBy>101762</LastModBy>
+    <LastModified>6/3/2019 3:04:00 PM</LastModified>
+    <ProductCode>030101</ProductCode>
+    <ProductID>42779</ProductID>
+    <ProductName>Boys Racer Stripe Board Shorts</ProductName>
+    <Additional_Handling_Indicator>N</Additional_Handling_Indicator>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <EnableMultiChildAddToCart>N</EnableMultiChildAddToCart>
+    <EnableOptions_InventoryControl>Y</EnableOptions_InventoryControl>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Availability>In stock</Google_Availability>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>Y</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <METATAG_Description>Racing stripes at the sides of the legs give a playful and sporty look to these UPF 50+ sun protective mesh-lined board shorts for boys from UV Skinz.</METATAG_Description>
+    <METATAG_Title>Boys' Racer Stripe Board Shorts - Kids' UV Board Shorts</METATAG_Title>
+    <Oversized>N</Oversized>
+    <Photo_SubText>&lt;a href="https://www.uvskinz.com/v/sizing-charts/babies-kids-sizing-chart.html" target="_blank" class="view-sizing-chart"&gt;Sizing Chart&lt;/a&gt;</Photo_SubText>
+    <ProductManufacturer>Parent UVS SP16</ProductManufacturer>
+    <ProductNameShort>Boys Racer Stripe Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>1</ProductWeight>
+    <Ships_By_Itself>N</Ships_By_Itself>
+    <warehouses />
+    <ProductFeatures>These sun protective mesh-lined board shorts are the shorts your little boy will live in all summer long! Our racer stripe board shorts are perfect for all-day play in and out of the water. These mesh-lined board shorts are durable and made from our lightweight, quick-drying, stretch woven sun fabric. These board shorts with mesh lining are knee length and feature a convenient Velcro fly with an adjustable drawstring and an elastic back waistband. They also include a handy side pocket and working drawstring for an adjustable fit. Our stretch woven fabric is chlorine- and salt water-resistant, making these the ideal durable board shorts for trips to the beach and pool. These striped kidsâ€™ board shorts are certified UPF 50+ for outstanding protection from UV rays.
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Certified UPF 50+&lt;/li&gt;
+	&lt;li&gt;Chlorine and Salt Water Resistant&lt;/li&gt;
+	&lt;li&gt;Lightweight, Quick Drying Stretch Woven Fabric&lt;/li&gt;
+	&lt;li&gt;Our Stretch Woven Fabric Transitions from Swim to Everyday Seamlessly&lt;/li&gt;
+	&lt;li&gt;Velcro Fly Closure&lt;/li&gt;
+	&lt;li&gt;Adjustable Drawstring Waist for a Perfect Fit&lt;/li&gt;
+	&lt;li&gt;Elastic Back Waistband for Added Comfort&lt;/li&gt;
+	&lt;li&gt;Mesh Liner on size 2T-6&lt;/li&gt;
+	&lt;li&gt;Size 6 Inseam: 7"&lt;/li&gt;
+	&lt;li&gt;Easy Care: Machine Wash, Line Dry&lt;/li&gt;
+	&lt;li&gt;Imported&lt;/li&gt;
+&lt;/ul&gt;</ProductFeatures>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030101</IsChildOfProductCode>
+    <LastModBy>11</LastModBy>
+    <LastModified>7/2/2019 2:41:00 PM</LastModified>
+    <ProductCode>030101-0001</ProductCode>
+    <ProductID>42780</ProductID>
+    <ProductName>Boys Racer Stripe Board Shorts - Lime Punch - 2T  ** SALE ITEM NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>9</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Toddler</Google_Age_Group>
+    <Google_Availability>In Stock</Google_Availability>
+    <Google_Color>Lime Punch</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>2T</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>2/12/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys Racer Stripe Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.17</ProductWeight>
+    <SalePrice>21.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030101</IsChildOfProductCode>
+    <LastModBy>11</LastModBy>
+    <LastModified>7/2/2019 2:41:00 PM</LastModified>
+    <ProductCode>030101-0002</ProductCode>
+    <ProductID>42781</ProductID>
+    <ProductName>Boys Racer Stripe Board Shorts - Navy Blue - 2T  ** SALE ITEM NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <Additional_Handling_Indicator>N</Additional_Handling_Indicator>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <EnableMultiChildAddToCart>N</EnableMultiChildAddToCart>
+    <EnableOptions_InventoryControl>N</EnableOptions_InventoryControl>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Toddler</Google_Age_Group>
+    <Google_Availability>In stock</Google_Availability>
+    <Google_Color>Navy Blue</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>2T</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>4/11/2019 12:00:00 AM</Inv_LastVerified>
+    <Oversized>N</Oversized>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys Racer Stripe Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.17</ProductWeight>
+    <SalePrice>21.9000</SalePrice>
+    <Ships_By_Itself>N</Ships_By_Itself>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030101</IsChildOfProductCode>
+    <LastModBy>11</LastModBy>
+    <LastModified>7/2/2019 2:41:00 PM</LastModified>
+    <ProductCode>030101-0003</ProductCode>
+    <ProductID>42782</ProductID>
+    <ProductName>Boys Racer Stripe Board Shorts - Royal - 2T  ** SALE ITEM NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Toddler</Google_Age_Group>
+    <Google_Availability>In Stock</Google_Availability>
+    <Google_Color>Royal</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>2T</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>11/9/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys Racer Stripe Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.17</ProductWeight>
+    <SalePrice>21.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030101</IsChildOfProductCode>
+    <LastModBy>11</LastModBy>
+    <LastModified>7/2/2019 2:41:00 PM</LastModified>
+    <ProductCode>030101-0004</ProductCode>
+    <ProductID>42783</ProductID>
+    <ProductName>Boys Racer Stripe Board Shorts - Lime Punch - 3T  ** SALE ITEM NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <Additional_Handling_Indicator>N</Additional_Handling_Indicator>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <EnableMultiChildAddToCart>N</EnableMultiChildAddToCart>
+    <EnableOptions_InventoryControl>N</EnableOptions_InventoryControl>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Toddler</Google_Age_Group>
+    <Google_Availability>In stock</Google_Availability>
+    <Google_Color>Lime Punch</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>3T</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>8/6/2018 12:00:00 AM</Inv_LastVerified>
+    <Oversized>N</Oversized>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys Racer Stripe Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.18</ProductWeight>
+    <SalePrice>21.9000</SalePrice>
+    <Ships_By_Itself>N</Ships_By_Itself>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030101</IsChildOfProductCode>
+    <LastModBy>11</LastModBy>
+    <LastModified>7/2/2019 2:41:00 PM</LastModified>
+    <ProductCode>030101-0005</ProductCode>
+    <ProductID>42784</ProductID>
+    <ProductName>Boys Racer Stripe Board Shorts - Navy Blue - 3T  ** SALE ITEM NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>12</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Toddler</Google_Age_Group>
+    <Google_Availability>Out of Stock</Google_Availability>
+    <Google_Color>Navy Blue</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>3T</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>2/12/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys Racer Stripe Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.18</ProductWeight>
+    <SalePrice>21.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030101</IsChildOfProductCode>
+    <LastModBy>11</LastModBy>
+    <LastModified>7/2/2019 2:41:00 PM</LastModified>
+    <ProductCode>030101-0006</ProductCode>
+    <ProductID>42785</ProductID>
+    <ProductName>Boys Racer Stripe Board Shorts - Royal - 3T  ** SALE ITEM NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Toddler</Google_Age_Group>
+    <Google_Availability>In Stock</Google_Availability>
+    <Google_Color>Royal</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>3T</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>11/9/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys Racer Stripe Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.18</ProductWeight>
+    <SalePrice>21.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030101</IsChildOfProductCode>
+    <LastModBy>11</LastModBy>
+    <LastModified>7/2/2019 2:41:00 PM</LastModified>
+    <ProductCode>030101-0007</ProductCode>
+    <ProductID>42786</ProductID>
+    <ProductName>Boys Racer Stripe Board Shorts - Lime Punch - 4T  ** SALE ITEM NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Toddler</Google_Age_Group>
+    <Google_Availability>In Stock</Google_Availability>
+    <Google_Color>Lime Punch</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>4T</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>4/11/2019 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys Racer Stripe Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.18</ProductWeight>
+    <SalePrice>21.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030101</IsChildOfProductCode>
+    <LastModBy>11</LastModBy>
+    <LastModified>7/3/2019 9:04:00 AM</LastModified>
+    <ProductCode>030101-0008</ProductCode>
+    <ProductID>42787</ProductID>
+    <ProductName>Boys Racer Stripe Board Shorts - Navy Blue - 4T  ** SALE ITEM NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Toddler</Google_Age_Group>
+    <Google_Availability>In Stock</Google_Availability>
+    <Google_Color>Navy Blue</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>4T</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>6/21/2019 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys Racer Stripe Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.18</ProductWeight>
+    <SalePrice>21.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030101</IsChildOfProductCode>
+    <LastModBy>11</LastModBy>
+    <LastModified>7/2/2019 2:41:00 PM</LastModified>
+    <ProductCode>030101-0009</ProductCode>
+    <ProductID>42788</ProductID>
+    <ProductName>Boys Racer Stripe Board Shorts - Royal - 4T  ** SALE ITEM NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Toddler</Google_Age_Group>
+    <Google_Availability>In Stock</Google_Availability>
+    <Google_Color>Royal</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>4T</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>4/11/2019 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys Racer Stripe Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.18</ProductWeight>
+    <SalePrice>21.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030101</IsChildOfProductCode>
+    <LastModBy>11</LastModBy>
+    <LastModified>7/2/2019 2:41:00 PM</LastModified>
+    <ProductCode>030101-0010</ProductCode>
+    <ProductID>42789</ProductID>
+    <ProductName>Boys Racer Stripe Board Shorts - Lime Punch - 5  ** SALE ITEM NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Toddler</Google_Age_Group>
+    <Google_Availability>In Stock</Google_Availability>
+    <Google_Color>Lime Punch</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>5</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>4/11/2019 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys Racer Stripe Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.19</ProductWeight>
+    <SalePrice>21.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030101</IsChildOfProductCode>
+    <LastModBy>11</LastModBy>
+    <LastModified>7/2/2019 2:41:00 PM</LastModified>
+    <ProductCode>030101-0011</ProductCode>
+    <ProductID>42790</ProductID>
+    <ProductName>Boys Racer Stripe Board Shorts - Navy Blue - 5  ** SALE ITEM NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Toddler</Google_Age_Group>
+    <Google_Availability>In Stock</Google_Availability>
+    <Google_Color>Navy Blue</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>5</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>1/11/2019 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys Racer Stripe Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.19</ProductWeight>
+    <SalePrice>21.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030101</IsChildOfProductCode>
+    <LastModBy>11</LastModBy>
+    <LastModified>7/2/2019 2:41:00 PM</LastModified>
+    <ProductCode>030101-0012</ProductCode>
+    <ProductID>42791</ProductID>
+    <ProductName>Boys Racer Stripe Board Shorts - Royal - 5  ** SALE ITEM NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Toddler</Google_Age_Group>
+    <Google_Availability>In Stock</Google_Availability>
+    <Google_Color>Royal</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>5</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>1/17/2019 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys Racer Stripe Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.19</ProductWeight>
+    <SalePrice>21.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030101</IsChildOfProductCode>
+    <LastModBy>11</LastModBy>
+    <LastModified>7/2/2019 2:41:00 PM</LastModified>
+    <ProductCode>030101-0013</ProductCode>
+    <ProductID>42792</ProductID>
+    <ProductName>Boys Racer Stripe Board Shorts - Lime Punch - 6  ** SALE ITEM NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Kids</Google_Age_Group>
+    <Google_Availability>In Stock</Google_Availability>
+    <Google_Color>Lime Punch</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>6</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>4/11/2019 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys Racer Stripe Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.2</ProductWeight>
+    <SalePrice>21.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030101</IsChildOfProductCode>
+    <LastModBy>11</LastModBy>
+    <LastModified>7/2/2019 2:41:00 PM</LastModified>
+    <ProductCode>030101-0014</ProductCode>
+    <ProductID>42793</ProductID>
+    <ProductName>Boys Racer Stripe Board Shorts - Navy Blue - 6  ** SALE ITEM NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Kids</Google_Age_Group>
+    <Google_Availability>In Stock</Google_Availability>
+    <Google_Color>Navy Blue</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>6</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>4/11/2019 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys Racer Stripe Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.2</ProductWeight>
+    <SalePrice>21.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030101</IsChildOfProductCode>
+    <LastModBy>11</LastModBy>
+    <LastModified>7/2/2019 2:41:00 PM</LastModified>
+    <ProductCode>030101-0015</ProductCode>
+    <ProductID>42794</ProductID>
+    <ProductName>Boys Racer Stripe Board Shorts - Royal - 6  ** SALE ITEM NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Kids</Google_Age_Group>
+    <Google_Availability>In Stock</Google_Availability>
+    <Google_Color>Royal</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>6</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>1/17/2019 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys Racer Stripe Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.2</ProductWeight>
+    <SalePrice>21.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030101</IsChildOfProductCode>
+    <LastModBy>11</LastModBy>
+    <LastModified>7/2/2019 2:41:00 PM</LastModified>
+    <ProductCode>030101-0016</ProductCode>
+    <ProductID>42795</ProductID>
+    <ProductName>Boys Racer Stripe Board Shorts - Lime Punch - 8  ** SALE ITEM NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Kids</Google_Age_Group>
+    <Google_Availability>In Stock</Google_Availability>
+    <Google_Color>Lime Punch</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>8</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>12/12/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys Racer Stripe Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.21</ProductWeight>
+    <SalePrice>21.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030101</IsChildOfProductCode>
+    <LastModBy>11</LastModBy>
+    <LastModified>7/2/2019 2:41:00 PM</LastModified>
+    <ProductCode>030101-0017</ProductCode>
+    <ProductID>42796</ProductID>
+    <ProductName>Boys Racer Stripe Board Shorts - Navy Blue - 8  ** SALE ITEM NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Kids</Google_Age_Group>
+    <Google_Availability>In Stock</Google_Availability>
+    <Google_Color>Navy Blue</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>8</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>4/11/2019 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys Racer Stripe Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.21</ProductWeight>
+    <SalePrice>21.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030101</IsChildOfProductCode>
+    <LastModBy>11</LastModBy>
+    <LastModified>7/2/2019 2:41:00 PM</LastModified>
+    <ProductCode>030101-0018</ProductCode>
+    <ProductID>42797</ProductID>
+    <ProductName>Boys Racer Stripe Board Shorts - Royal - 8  ** SALE ITEM NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Kids</Google_Age_Group>
+    <Google_Availability>In Stock</Google_Availability>
+    <Google_Color>Royal</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>8</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>8/6/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys Racer Stripe Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.21</ProductWeight>
+    <SalePrice>21.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030101</IsChildOfProductCode>
+    <LastModBy>11</LastModBy>
+    <LastModified>7/2/2019 2:41:00 PM</LastModified>
+    <ProductCode>030101-0019</ProductCode>
+    <ProductID>42798</ProductID>
+    <ProductName>Boys Racer Stripe Board Shorts - Lime Punch - 10  ** SALE ITEM NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Kids</Google_Age_Group>
+    <Google_Availability>In Stock</Google_Availability>
+    <Google_Color>Lime Punch</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>10</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>1/11/2019 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys Racer Stripe Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.22</ProductWeight>
+    <SalePrice>21.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030101</IsChildOfProductCode>
+    <LastModBy>11</LastModBy>
+    <LastModified>7/2/2019 2:41:00 PM</LastModified>
+    <ProductCode>030101-0020</ProductCode>
+    <ProductID>42799</ProductID>
+    <ProductName>Boys Racer Stripe Board Shorts - Navy Blue - 10  ** SALE ITEM NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>17</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Kids</Google_Age_Group>
+    <Google_Availability>In Stock</Google_Availability>
+    <Google_Color>Navy Blue</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>10</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>2/14/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys Racer Stripe Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.22</ProductWeight>
+    <SalePrice>21.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030101</IsChildOfProductCode>
+    <LastModBy>11</LastModBy>
+    <LastModified>7/2/2019 2:41:00 PM</LastModified>
+    <ProductCode>030101-0021</ProductCode>
+    <ProductID>42800</ProductID>
+    <ProductName>Boys Racer Stripe Board Shorts - Royal - 10  ** SALE ITEM NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <Additional_Handling_Indicator>N</Additional_Handling_Indicator>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <EnableMultiChildAddToCart>N</EnableMultiChildAddToCart>
+    <EnableOptions_InventoryControl>N</EnableOptions_InventoryControl>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Kids</Google_Age_Group>
+    <Google_Availability>In stock</Google_Availability>
+    <Google_Color>Royal</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>10</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Oversized>N</Oversized>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys Racer Stripe Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.22</ProductWeight>
+    <SalePrice>21.9000</SalePrice>
+    <Ships_By_Itself>N</Ships_By_Itself>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030101</IsChildOfProductCode>
+    <LastModBy>11</LastModBy>
+    <LastModified>7/2/2019 2:41:00 PM</LastModified>
+    <ProductCode>030101-0022</ProductCode>
+    <ProductID>42801</ProductID>
+    <ProductName>Boys Racer Stripe Board Shorts - Lime Punch - 12  ** SALE ITEM NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Kids</Google_Age_Group>
+    <Google_Availability>In Stock</Google_Availability>
+    <Google_Color>Lime Punch</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>12</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>4/11/2019 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys Racer Stripe Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.23</ProductWeight>
+    <SalePrice>21.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030101</IsChildOfProductCode>
+    <LastModBy>67489</LastModBy>
+    <LastModified>7/8/2019 11:53:00 AM</LastModified>
+    <ProductCode>030101-0023</ProductCode>
+    <ProductID>42802</ProductID>
+    <ProductName>Boys Racer Stripe Board Shorts - Navy Blue - 12  ** SALE ITEM NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>13</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Kids</Google_Age_Group>
+    <Google_Availability>In Stock</Google_Availability>
+    <Google_Color>Navy Blue</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>12</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>2/12/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys Racer Stripe Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.23</ProductWeight>
+    <SalePrice>21.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030101</IsChildOfProductCode>
+    <LastModBy>11</LastModBy>
+    <LastModified>7/2/2019 2:41:00 PM</LastModified>
+    <ProductCode>030101-0024</ProductCode>
+    <ProductID>42803</ProductID>
+    <ProductName>Boys Racer Stripe Board Shorts - Royal - 12  ** SALE ITEM NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Kids</Google_Age_Group>
+    <Google_Availability>In Stock</Google_Availability>
+    <Google_Color>Royal</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>12</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>4/11/2019 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys Racer Stripe Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.23</ProductWeight>
+    <SalePrice>21.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030101</IsChildOfProductCode>
+    <LastModBy>11</LastModBy>
+    <LastModified>7/2/2019 2:41:00 PM</LastModified>
+    <ProductCode>030101-0025</ProductCode>
+    <ProductID>42804</ProductID>
+    <ProductName>Boys Racer Stripe Board Shorts - Lime Punch - 14  ** SALE ITEM NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>7</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Kids</Google_Age_Group>
+    <Google_Availability>In Stock</Google_Availability>
+    <Google_Color>Lime Punch</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>14</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys Racer Stripe Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.24</ProductWeight>
+    <SalePrice>21.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030101</IsChildOfProductCode>
+    <LastModBy>11</LastModBy>
+    <LastModified>7/2/2019 2:41:00 PM</LastModified>
+    <ProductCode>030101-0026</ProductCode>
+    <ProductID>42805</ProductID>
+    <ProductName>Boys Racer Stripe Board Shorts - Navy Blue - 14  ** SALE ITEM NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>0</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Kids</Google_Age_Group>
+    <Google_Availability>In Stock</Google_Availability>
+    <Google_Color>Navy Blue</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>14</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>11/9/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys Racer Stripe Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.24</ProductWeight>
+    <SalePrice>21.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030101</IsChildOfProductCode>
+    <LastModBy>67489</LastModBy>
+    <LastModified>7/4/2019 9:12:00 AM</LastModified>
+    <ProductCode>030101-0027</ProductCode>
+    <ProductID>42806</ProductID>
+    <ProductName>Boys Racer Stripe Board Shorts - Royal - 14  ** SALE ITEM NOT ELIGIBLE FOR RETURN **</ProductName>
+    <StockStatus>4</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>13.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>16.2000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>13.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Kids</Google_Age_Group>
+    <Google_Availability>In Stock</Google_Availability>
+    <Google_Color>Royal</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Swimwear</Google_Product_Category>
+    <Google_Size>14</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>6/21/2019 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Clearance SP16</ProductManufacturer>
+    <ProductNameShort>Boys Racer Stripe Board Shorts</ProductNameShort>
+    <ProductPrice>26.9500</ProductPrice>
+    <ProductWeight>0.24</ProductWeight>
+    <SalePrice>21.9000</SalePrice>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <LastModBy>101762</LastModBy>
+    <LastModified>6/3/2019 3:17:00 PM</LastModified>
+    <ProductCode>030631</ProductCode>
+    <ProductID>42810</ProductID>
+    <ProductName>Boys Sun Leggingz</ProductName>
+    <ProductPopularity>29</ProductPopularity>
+    <Additional_Handling_Indicator>N</Additional_Handling_Indicator>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>16.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>19.8000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>16.5000</DiscountedPrice_Level3>
+    <EnableMultiChildAddToCart>N</EnableMultiChildAddToCart>
+    <EnableOptions_InventoryControl>Y</EnableOptions_InventoryControl>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Availability>In stock</Google_Availability>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>Y</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Oversized>N</Oversized>
+    <Photo_SubText>&lt;a href="https://www.uvskinz.com/v/sizing-charts/babies-kids-sizing-chart.html" target="_blank" class="view-sizing-chart"&gt;Sizing Chart&lt;/a&gt;</Photo_SubText>
+    <ProductManufacturer>Parent UVS SP16</ProductManufacturer>
+    <ProductNameShort>Boys Sun Leggingz</ProductNameShort>
+    <ProductPrice>32.9500</ProductPrice>
+    <ProductWeight>1</ProductWeight>
+    <Ships_By_Itself>N</Ships_By_Itself>
+    <warehouses />
+    <ProductFeatures>Ready for you next outdoor adventure? Perfect for the active boy who loves to boogie board, snorkel, surf or enjoys any outdoor activity that requires ultimate comfort and full protection. Fully lined, full length UPF 50+ protection. Made from our quick drying, durable knit sun fabric. Chlorine and salt water resistant.
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Certified UPF 50+&lt;/li&gt;
+	&lt;li&gt;Chlorine and Salt Water Resistant&lt;/li&gt;
+	&lt;li&gt;Quick Drying Durable Knit Fabric&lt;/li&gt;
+	&lt;li&gt;Fully Lined&lt;/li&gt;
+	&lt;li&gt;Size 6 Inseam: 17 1/2"&lt;/li&gt;
+	&lt;li&gt;Easy Care: Machine Wash, Line Dry&lt;/li&gt;
+	&lt;li&gt;Imported&lt;/li&gt;
+&lt;/ul&gt;</ProductFeatures>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030631</IsChildOfProductCode>
+    <LastModBy>67489</LastModBy>
+    <LastModified>7/2/2019 5:14:00 PM</LastModified>
+    <ProductCode>030631-0001</ProductCode>
+    <ProductID>42811</ProductID>
+    <ProductName>Boys Sun Leggingz - Navy Blue - 2T</ProductName>
+    <StockStatus>19</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>16.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>19.8000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>16.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Toddler</Google_Age_Group>
+    <Google_Availability>In Stock</Google_Availability>
+    <Google_Color>Navy Blue</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Baby &amp; Toddler Clothing &gt; Baby &amp; Toddler Bottoms</Google_Product_Category>
+    <Google_Size>2T</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>2/14/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Core SP16</ProductManufacturer>
+    <ProductNameShort>Boys Sun Leggingz</ProductNameShort>
+    <ProductPrice>32.9500</ProductPrice>
+    <ProductWeight>0.23</ProductWeight>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030631</IsChildOfProductCode>
+    <LastModBy>67489</LastModBy>
+    <LastModified>7/10/2019 2:26:00 PM</LastModified>
+    <ProductCode>030631-0002</ProductCode>
+    <ProductID>42812</ProductID>
+    <ProductName>Boys Sun Leggingz - Black - 2T</ProductName>
+    <StockStatus>16</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>16.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>19.8000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>16.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Toddler</Google_Age_Group>
+    <Google_Availability>In Stock</Google_Availability>
+    <Google_Color>Black</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Baby &amp; Toddler Clothing &gt; Baby &amp; Toddler Bottoms</Google_Product_Category>
+    <Google_Size>2T</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>8/6/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Core SP16</ProductManufacturer>
+    <ProductNameShort>Boys Sun Leggingz</ProductNameShort>
+    <ProductPrice>32.9500</ProductPrice>
+    <ProductWeight>0.23</ProductWeight>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030631</IsChildOfProductCode>
+    <LastModBy>67489</LastModBy>
+    <LastModified>7/2/2019 5:14:00 PM</LastModified>
+    <ProductCode>030631-0003</ProductCode>
+    <ProductID>42813</ProductID>
+    <ProductName>Boys Sun Leggingz - Navy Blue - 3T</ProductName>
+    <StockStatus>10</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>16.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>19.8000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>16.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Toddler</Google_Age_Group>
+    <Google_Availability>In Stock</Google_Availability>
+    <Google_Color>Navy Blue</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Baby &amp; Toddler Clothing &gt; Baby &amp; Toddler Bottoms</Google_Product_Category>
+    <Google_Size>3T</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>9/12/2017 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Core SP16</ProductManufacturer>
+    <ProductNameShort>Boys Sun Leggingz</ProductNameShort>
+    <ProductPrice>32.9500</ProductPrice>
+    <ProductWeight>0.26</ProductWeight>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030631</IsChildOfProductCode>
+    <LastModBy>67489</LastModBy>
+    <LastModified>7/10/2019 2:26:00 PM</LastModified>
+    <ProductCode>030631-0005</ProductCode>
+    <ProductID>42815</ProductID>
+    <ProductName>Boys Sun Leggingz - Navy Blue - 4T</ProductName>
+    <StockStatus>7</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>16.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>19.8000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>16.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Toddler</Google_Age_Group>
+    <Google_Availability>In Stock</Google_Availability>
+    <Google_Color>Navy Blue</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Baby &amp; Toddler Clothing &gt; Baby &amp; Toddler Bottoms</Google_Product_Category>
+    <Google_Size>4T</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>11/9/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Core SP16</ProductManufacturer>
+    <ProductNameShort>Boys Sun Leggingz</ProductNameShort>
+    <ProductPrice>32.9500</ProductPrice>
+    <ProductWeight>0.295</ProductWeight>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030631</IsChildOfProductCode>
+    <LastModBy>67489</LastModBy>
+    <LastModified>5/24/2019 8:41:00 AM</LastModified>
+    <ProductCode>030631-0006</ProductCode>
+    <ProductID>42816</ProductID>
+    <ProductName>Boys Sun Leggingz - Black - 4T</ProductName>
+    <StockStatus>23</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>16.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>19.8000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>16.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Toddler</Google_Age_Group>
+    <Google_Availability>In Stock</Google_Availability>
+    <Google_Color>Black</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Baby &amp; Toddler Clothing &gt; Baby &amp; Toddler Bottoms</Google_Product_Category>
+    <Google_Size>4T</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>2/12/2018 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Core SP16</ProductManufacturer>
+    <ProductNameShort>Boys Sun Leggingz</ProductNameShort>
+    <ProductPrice>32.9500</ProductPrice>
+    <ProductWeight>0.295</ProductWeight>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030631</IsChildOfProductCode>
+    <LastModBy>67489</LastModBy>
+    <LastModified>7/11/2019 3:36:00 PM</LastModified>
+    <ProductCode>030631-0007</ProductCode>
+    <ProductID>42817</ProductID>
+    <ProductName>Boys Sun Leggingz - Navy Blue - 5</ProductName>
+    <StockStatus>8</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>16.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>19.8000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>16.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Toddler</Google_Age_Group>
+    <Google_Availability>In Stock</Google_Availability>
+    <Google_Color>Navy Blue</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Baby &amp; Toddler Clothing &gt; Baby &amp; Toddler Bottoms</Google_Product_Category>
+    <Google_Size>5</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>1/17/2019 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Core SP16</ProductManufacturer>
+    <ProductNameShort>Boys Sun Leggingz</ProductNameShort>
+    <ProductPrice>32.9500</ProductPrice>
+    <ProductWeight>0.325</ProductWeight>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DisplayBeginDate>3/11/2016 12:00:00 AM</DisplayBeginDate>
+    <DoNotAllowBackOrders>Y</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>030631</IsChildOfProductCode>
+    <LastModBy>67489</LastModBy>
+    <LastModified>7/11/2019 11:23:00 AM</LastModified>
+    <ProductCode>030631-0008</ProductCode>
+    <ProductID>42818</ProductID>
+    <ProductName>Boys Sun Leggingz - Black - 5</ProductName>
+    <StockStatus>25</StockStatus>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <DiscountedPrice_Level1>16.5000</DiscountedPrice_Level1>
+    <DiscountedPrice_Level2>19.8000</DiscountedPrice_Level2>
+    <DiscountedPrice_Level3>16.5000</DiscountedPrice_Level3>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Google_Age_Group>Toddler</Google_Age_Group>
+    <Google_Availability>In Stock</Google_Availability>
+    <Google_Color>Black</Google_Color>
+    <Google_Gender>Male</Google_Gender>
+    <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing &gt; Baby &amp; Toddler Clothing &gt; Baby &amp; Toddler Bottoms</Google_Product_Category>
+    <Google_Size>5</Google_Size>
+    <Google_SizeType>Regular</Google_SizeType>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Inv_LastVerified>9/12/2017 12:00:00 AM</Inv_LastVerified>
+    <ProductManufacturer>Core SP16</ProductManufacturer>
+    <ProductNameShort>Boys Sun Leggingz</ProductNameShort>
+    <ProductPrice>32.9500</ProductPrice>
+    <ProductWeight>0.325</ProductWeight>
+    <warehouses />
+  </Products>
+</xmldata>
