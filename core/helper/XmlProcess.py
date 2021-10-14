@@ -7,11 +7,10 @@ from core.helper.XMLParser import XMLParser
 
 
 class XmlProcess:
-
-    def __init__(self, root_element, element='Products'):
+    def __init__(self, root_element, element="Products"):
         self.root_element = root_element
         self.element = element
-        self.output_file = ''
+        self.output_file = ""
         self.root_path = root_path
         self.input_path = input_path
         self.output_path = output_path
@@ -41,4 +40,3 @@ class XmlProcess:
         self.file_read()
         self.processing()
         XMLParser.output_csv()
-

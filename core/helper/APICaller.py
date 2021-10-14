@@ -13,17 +13,21 @@ class APICaller:
     def __init__(self):
         self.username = static.username
         self.encrypted_password = static.encrypted_password
-        self.link = "{}{}".format(static.link.rstrip('/').replace('https://', '').replace('http://', ''),
-                                  "/net/WebService.aspx")
-        self.user_agent = {"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "
-                                         "snap Chromium/74.0.3729.169 Chrome/74.0.3729.169 Safari/537.36"}
+        self.link = "{}{}".format(
+            static.link.rstrip("/").replace("https://", "").replace("http://", ""),
+            "/net/WebService.aspx",
+        )
+        self.user_agent = {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "
+            "snap Chromium/74.0.3729.169 Chrome/74.0.3729.169 Safari/537.36"
+        }
         # self.flag = True
-        self.API_TaxableProduct_values = ['Y', 'N', 'NULL']
+        self.API_TaxableProduct_values = ["Y", "N", "NULL"]
 
     def volusionapi(self, each_attribute_value):
-        name = r'Generic\Products'
-        columns = r'*'
-        where_column = r'pe.TaxableProduct'
+        name = r"Generic\Products"
+        columns = r"*"
+        where_column = r"pe.TaxableProduct"
         val = each_attribute_value
         # columns = r'*,*,p.IsChildOfProductCode,p.IsChildOfProductCode_ProductID,p.HideProduct,p.ProductCode,' \
         #           r'p.ProductID,p.ProductName,p.Share_StockStatus_With,p.Share_StockStatus_With_ProductID,' \
@@ -33,21 +37,29 @@ class APICaller:
         #           r'pe.Google_Gender,pe.Google_Material,pe.Google_Pattern,pe.Google_Product_Category,' \
         #           r'pe.Google_Product_Type,pe.Google_Size,pe.Google_SizeSystem,pe.Google_SizeType,pe.ProductCategory,' \
         #           r'pe.ProductCondition,pe.ProductPrice,pe.SalePrice,pe.UPC_code'
-        data = {'Login': self.username,
-                'EncryptedPassword': self.encrypted_password,
-                'EDI_Name': name,
-                'SELECT_Columns': columns,
-                'WHERE_Column': where_column,
-                'WHERE_Value': val
-                }
+        data = {
+            "Login": self.username,
+            "EncryptedPassword": self.encrypted_password,
+            "EDI_Name": name,
+            "SELECT_Columns": columns,
+            "WHERE_Column": where_column,
+            "WHERE_Value": val,
+        }
         try:
-            r = requests.post("{}{}".format("http://", self.link), params=data, headers=self.user_agent)
-            data = r.content.decode('utf-8')
+            r = requests.post(
+                "{}{}".format("http://", self.link),
+                params=data,
+                headers=self.user_agent,
+            )
+            data = r.content.decode("utf-8")
         except requests.exceptions.ConnectionError as e:
             print("Request failed. Invalid Credentials.!!")
             exit()
-        with open(os.path.join(output_path, "output_xml_{}.xml".format(APICaller.count)), 'w', encoding='utf-8') \
-                as xmlfile:
+        with open(
+            os.path.join(output_path, "output_xml_{}.xml".format(APICaller.count)),
+            "w",
+            encoding="utf-8",
+        ) as xmlfile:
             xmlfile.write(data)
         APICaller.count += 1
         return data
@@ -68,13 +80,25 @@ class APICaller:
         for each_attribute_value in self.API_TaxableProduct_values:
             data = self.volusionapi(each_attribute_value)
             root = ET.fromstring(data)
-            if root.find('{}{}'.format('.//', 'Products')):
-                print('Element found for {} values of Taxable product attribute'.format(each_attribute_value))
+            if root.find("{}{}".format(".//", "Products")):
+                print(
+                    "Element found for {} values of Taxable product attribute".format(
+                        each_attribute_value
+                    )
+                )
                 XmlProcess(root).start()
-                print('_______________________________________________________________________________________________')
+                print(
+                    "_______________________________________________________________________________________________"
+                )
             else:
                 # self.flag = False
-                print('Element not Found for {} value of Taxable product attribute.'.format(each_attribute_value))
-                print('_______________________________________________________________________________________________')
+                print(
+                    "Element not Found for {} value of Taxable product attribute.".format(
+                        each_attribute_value
+                    )
+                )
+                print(
+                    "_______________________________________________________________________________________________"
+                )
         FilesCombiner().start()
-        print('The End')
+        print("The End")

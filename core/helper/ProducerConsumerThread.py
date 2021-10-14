@@ -6,7 +6,6 @@ queue = Queue(150)
 
 
 class ProducerThread(Thread):
-
     def __init__(self, element_list):
         super(ProducerThread, self).__init__()
         self.element_list = element_list
